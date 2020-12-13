@@ -1,6 +1,6 @@
 # login-register
 This is the code for my tutorial on login and register system using html, css, php and mysql.
-Access the tutorial here: https://the-mikrochip.com/user-login-and-registration-system-using-php-and-mysql for a step by step reference.
+Access the tutorial here: https://kelvince.com/articles/user-login-and-registration-system-using-php-and-mysql for a step by step reference.
 
 Create the database with the name "login" then import the 'users.sql'.
 Move the files in the web directory of your server and access the index.php using localhost/$thenameofyourfolder$/index.php.
